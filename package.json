@@ -1,0 +1,25 @@
+{
+  "name": "vue-storage",
+  "version": "1.0.0",
+  "description": "Automated storage of data members using LocalStorage or Cookies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacArthurJustin/vue-storage.git"
+  },
+  "keywords": [
+    "localStorage",
+    "storage",
+    "cookies",
+    "session"
+  ],
+  "author": "Justin MacArthur <macarthurjustin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MacArthurJustin/vue-storage/issues"
+  },
+  "homepage": "https://github.com/MacArthurJustin/vue-storage#readme"
+}
